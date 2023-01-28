@@ -18,14 +18,14 @@ For add infos in your sql
 
 
 
-ply = your identifier
-amount = money amount
-comment = comment
-date = current date (avalible in client)
-type = value "pos" or "neg"
-sender = sender
-target = target
-iden = ex: "WITHDRAW"
+- ply = your identifier
+- amount = money amount
+- comment = comment
+- date = current date (avalible in client)
+- type = value "pos" or "neg"
+- sender = sender
+- target = target
+- iden = ex: "WITHDRAW"
 
 ####
 
